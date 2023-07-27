@@ -1,5 +1,5 @@
 Sprint RPS by Oaklib Inc.
-html5up.net | @ajlkn
+html5up.net | @jadenlee
 Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
 
@@ -14,7 +14,7 @@ you can use for pretty much whatever.
 (* = not included)
 
 AJ
-aj@lkn.io | @ajlkn
+aj@lkn.io | @jadenlee
 
 
 Credits:
@@ -27,4 +27,4 @@ Credits:
 
 	Other:
 		jQuery (jquery.com)
-		Responsive Tools (github.com/ajlkn/responsive-tools)
+		Responsive Tools (github.com/jadenlee/responsive-tools)
